@@ -63,7 +63,8 @@ p {
 }
 .galleryPhotos img{
     margin-top: 30px;
-    height: 180px;
+    max-width: 16vw;
+    max-height: 17vh;
     position: absolute;
     left: 0;
     offset-path: path('m 0 50 q 50-30 100-30 t 100 30 100 0 100-30 100 30');
